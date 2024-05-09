@@ -1,0 +1,11 @@
+E:\web\.netITI\C#\7\RegistrationApp\RegistrationApp\bin\Debug\RegistrationApp.exe.config
+E:\web\.netITI\C#\7\RegistrationApp\RegistrationApp\bin\Debug\RegistrationApp.exe
+E:\web\.netITI\C#\7\RegistrationApp\RegistrationApp\bin\Debug\RegistrationApp.pdb
+E:\web\.netITI\C#\7\RegistrationApp\RegistrationApp\obj\Debug\RegistrationApp.csproj.AssemblyReference.cache
+E:\web\.netITI\C#\7\RegistrationApp\RegistrationApp\obj\Debug\RegistrationApp.csproj.SuggestedBindingRedirects.cache
+E:\web\.netITI\C#\7\RegistrationApp\RegistrationApp\obj\Debug\RegistrationApp.Form1.resources
+E:\web\.netITI\C#\7\RegistrationApp\RegistrationApp\obj\Debug\RegistrationApp.Properties.Resources.resources
+E:\web\.netITI\C#\7\RegistrationApp\RegistrationApp\obj\Debug\RegistrationApp.csproj.GenerateResource.cache
+E:\web\.netITI\C#\7\RegistrationApp\RegistrationApp\obj\Debug\RegistrationApp.csproj.CoreCompileInputs.cache
+E:\web\.netITI\C#\7\RegistrationApp\RegistrationApp\obj\Debug\RegistrationApp.exe
+E:\web\.netITI\C#\7\RegistrationApp\RegistrationApp\obj\Debug\RegistrationApp.pdb
